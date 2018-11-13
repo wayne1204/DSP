@@ -1,0 +1,9 @@
+hw2/htk/
+hw3/srilm-1.5.10/
+hw3/testdata/
+hw3/utf-testdata/
+dsp_midterm/
+
+*.wav
+*.txt
+*.pptx
